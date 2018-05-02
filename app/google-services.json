@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "394550596048",
-    "firebase_url": "https://friendlychat-ea235.firebaseio.com",
-    "project_id": "friendlychat-ea235",
-    "storage_bucket": "friendlychat-ea235.appspot.com"
+    "project_number": "121057222196",
+    "firebase_url": "https://friendlychat-95da2.firebaseio.com",
+    "project_id": "friendlychat-95da2",
+    "storage_bucket": "friendlychat-95da2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:394550596048:android:64e58dacc0483faa",
+        "mobilesdk_app_id": "1:121057222196:android:64e58dacc0483faa",
         "android_client_info": {
           "package_name": "com.google.firebase.udacity.friendlychat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "394550596048-36e8agh6e0p7gkmg7egrenck4bvvo538.apps.googleusercontent.com",
+          "client_id": "121057222196-h3j1s5uqnkml9ojpko903v852g1atvab.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.google.firebase.udacity.friendlychat",
-            "certificate_hash": "6df4895afedf206cf9bf56120a8f5faff4230fa9"
+            "certificate_hash": "e0a0d1ddd38f3622d192168369f0c70ffb4c32da"
           }
         },
         {
-          "client_id": "394550596048-fjs51p6avk4jk05qrpotph0g7i29orvf.apps.googleusercontent.com",
+          "client_id": "121057222196-oitbn12t6tpq35eg2e6i4tkjjf4hd7dl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAoaQ9E6fJ0vMzhoEZnCsaaui5hO0IAfrs"
+          "current_key": "AIzaSyDymPPgJP0hZzVrIK0S-JfO7YTeyF2GNOY"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "394550596048-fjs51p6avk4jk05qrpotph0g7i29orvf.apps.googleusercontent.com",
+              "client_id": "121057222196-oitbn12t6tpq35eg2e6i4tkjjf4hd7dl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
